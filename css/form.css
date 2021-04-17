@@ -1,0 +1,16 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  color: red;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+}
+
+label > a {
+  text-decoration: none;
+  color: #07f;
+}
